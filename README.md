@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cátia Torrinha
-- 👀 I’m interested in Data & Business Aanlysis and Visualization
+- 👀 I'm a former Designer/Web Designer and a new Data Analysis & Visualization enthusiast
 - 🌱 I’m currently learning SQL and Python
 - 📫 How to reach me: cstorrinha@gmail.com
 - 📄 Know about my experiences: https://www.linkedin.com/in/cstorrinha/
