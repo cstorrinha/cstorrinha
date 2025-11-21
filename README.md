@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cátia Torrinha</h1>
 <h3 align="center">A former Designer/Web Designer and a new Data Analysis & Visualization enthusiast</h3>
 
-- 🧮 I’m currently Data Analyst and aspiring Data Scientist, with experience in SQL/Python/HTML.**
+- 🧮 I’m currently Data Analyst and aspiring Data Scientist, with experience in SQL/Python/HTML.
 
-- 🌱 I'm currently learning Machine Learning and expanding my knowledge in Power BI/DAX.**
+- 🌱 I'm currently learning Machine Learning and expanding my knowledge in Power BI/DAX.
 
 - 📫 How to reach me **cstorrinha@gmail.com**
 
